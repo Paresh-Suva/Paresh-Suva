@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World...! I'm Paresh Suva, a problem-solver at heart and a Java Developer in the making. I love the logic behind the scenes that makes applications tick. I'm currently finishing my IT degree and looking for a team where I can contribute code, learn fast, and grow as a backend engineer.<br><br>I’m currently working on ... Dream Shop, a robust retail simulation engine demonstrating full CRUD operations using Spring Boot.<br>I’m currently learning ... How to integrate MySQL with cloud technologies and securing APIs with Spring Security.<br>
+Hello World...! I'm Paresh Suva, a Java Developer in the making. I love the logic behind the scenes that makes applications tick. I'm currently finishing my IT degree and looking for a team where I can contribute code, learn fast, and grow as a backend engineer.<br><br>I’m currently working on ... Dream Shop, a robust retail simulation engine demonstrating full CRUD operations using Spring Boot.<br>I’m currently learning ... How to integrate MySQL with cloud technologies and securing APIs with Spring Security.<br>
 
 
 ## 🌐 Socials:
